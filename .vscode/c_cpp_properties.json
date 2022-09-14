@@ -1,0 +1,20 @@
+{
+    "configurations": [
+        {
+            "name": "Linux",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "/Data2/zengsheng/opencv4/install/include/**", 
+                "/Data2/zengsheng/opencv4/install/include/opencv4/opencv2/**",
+                "/Data2/zengsheng/opencv4/install/include/opencv4/opencv2/*.hpp",
+                "/Data2/zengsheng/opencv4/install/include/opencv4/opencv2/imgproc.hpp"
+            ],
+            "defines": [],
+            "compilerPath": "/usr/bin/g++",
+            "cStandard": "c11",
+            "cppStandard": "gnu++14",
+            "intelliSenseMode": "linux-gcc-x64"
+        }
+    ],
+    "version": 4
+}
